@@ -1,3 +1,9 @@
+# Link 
+
+Original repo https://github.com/makerdao/dss, for fetching and merge change add new remote with command git remote add maker https://github.com/makerdao/dss.
+
+
+
 # Multi Collateral Dai
 [![Build Status](https://travis-ci.com/makerdao/dss.svg?branch=master)](https://travis-ci.com/makerdao/dss)
 [![codecov](https://codecov.io/gh/makerdao/dss/branch/master/graph/badge.svg)](https://codecov.io/gh/makerdao/dss)
